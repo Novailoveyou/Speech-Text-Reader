@@ -1,5 +1,5 @@
 {
-  "name": "speach-text-reader",
+  "name": "speech-text-reader",
   "version": "1.0.0",
   "description": "Something really basic to help people with disabilities",
   "main": "script.js",
