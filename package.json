@@ -1,0 +1,22 @@
+{
+  "name": "speach-text-reader",
+  "version": "1.0.0",
+  "description": "Something really basic to help people with disabilities",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Novailoveyou/Speech-Text-Reader.git"
+  },
+  "author": "Nover",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Novailoveyou/Speech-Text-Reader/issues"
+  },
+  "homepage": "https://novailoveyou.github.io/Speech-Text-Reader",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
